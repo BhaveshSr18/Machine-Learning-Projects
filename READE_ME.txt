@@ -1,0 +1,11 @@
+**Information about different files**
+
+1) ResNet_Model.keras  -  Keras file of our ML model
+
+2) ResNet_Model.ipynb  -  Complete code file
+
+3) Data_augmentation.ipynb  -  Generates the final 'submission.csv' files of predictions on test data
+
+4) CSV_file_generator.ipynb  -  Generates the final 'submission.csv' files of predictions on test data
+
+5) submission.csv  -  Prediction file generated
